@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Modesty';
+  src: url("../../fonts/ModestyFreshStyle.ttf");
+}
+.warning-text {
+  color: #f00;
+}
+.margin-top-30 {
+  margin-top: 30px;
+}
